@@ -6,10 +6,9 @@
 **2 -** [**Инициализация объектов и аргумент self**](inicializaciya-obektov-i-argument-self.md) \
 **3 -** [**Взаимодействие с атрибутами**](vzaimodeistvie-s-atributami.md)\
 **4 -** [**Свойства класса и инкапсуляция**](svoistva-klassa-i-inkapsulyaciya.md)\
-**5 - Dunder методы (get, set)**\
-**6 - Статические методы (@staticmethod)** \
-**7 - Slots - оптимизируем потребление памяти**\
-**8 - Dunder метод (New)**
+**5 -** [**Staticmethod и Classmethod**](staticmethod-i-classmethod.md)\
+**6 - Slots - оптимизируем потребление памяти**\
+**7 - Dunder метод (New)**
 
 ## Глава 2. Глубоко и надолго
 

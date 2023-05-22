@@ -5,3 +5,4 @@
 * [Инициализация объектов и аргумент self](inicializaciya-obektov-i-argument-self.md)
 * [Взаимодействие с атрибутами](vzaimodeistvie-s-atributami.md)
 * [Свойства класса и инкапсуляция](svoistva-klassa-i-inkapsulyaciya.md)
+* [Staticmethod и Classmethod](staticmethod-i-classmethod.md)
