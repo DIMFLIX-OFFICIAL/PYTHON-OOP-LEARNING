@@ -8,7 +8,7 @@
 **4 -** [**Свойства класса и инкапсуляция**](svoistva-klassa-i-inkapsulyaciya.md)\
 **5 -** [**Staticmethod и Classmethod**](staticmethod-i-classmethod.md)\
 **6 -** [**Slots**](slots.md) \
-**7 - Dunder метод (New)**
+**7 -** [**Dunder метод (New)**](dunder-metod-new.md)
 
 ## Глава 2. Глубоко и надолго
 

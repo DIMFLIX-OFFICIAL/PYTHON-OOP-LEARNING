@@ -7,3 +7,4 @@
 * [Свойства класса и инкапсуляция](svoistva-klassa-i-inkapsulyaciya.md)
 * [Staticmethod и Classmethod](staticmethod-i-classmethod.md)
 * [Slots](slots.md)
+* [Dunder метод (New)](dunder-metod-new.md)
