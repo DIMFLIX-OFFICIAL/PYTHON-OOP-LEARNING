@@ -7,7 +7,7 @@
 **3 -** [**Взаимодействие с атрибутами**](vzaimodeistvie-s-atributami.md)\
 **4 -** [**Свойства класса и инкапсуляция**](svoistva-klassa-i-inkapsulyaciya.md)\
 **5 -** [**Staticmethod и Classmethod**](staticmethod-i-classmethod.md)\
-**6 - Slots - оптимизируем потребление памяти**\
+**6 -** [**Slots**](slots.md) \
 **7 - Dunder метод (New)**
 
 ## Глава 2. Глубоко и надолго
