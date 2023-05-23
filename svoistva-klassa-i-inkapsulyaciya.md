@@ -20,8 +20,6 @@
 
 Свойства в Python классах - это специальные методы, которые позволяют управлять доступом к атрибутам объекта класса. Они позволяют получать, устанавливать и удалять значения атрибутов, выполняя при этом определенные действия.
 
-Пример: \` class Rectangle: def \_\_**init\_\_**(self, width, height): self.width = width self.height = height
-
 ```python
 class Rectangle: 
     def init(self, width, height): 
